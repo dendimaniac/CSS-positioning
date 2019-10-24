@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Metro Server" createEmptyFolders="true" filePermissions="493" folderPermissions="493">
+    <serverData>
+      <paths name="Metro Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/CSS-positioning" local="$PROJECT_DIR$" web="/CSS-positioning" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Metro Shell">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
